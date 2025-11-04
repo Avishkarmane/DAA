@@ -1,7 +1,6 @@
-//NAME : Avishkar SHivaji Mane
-     PRN NO -123B1F059
-//
-/*
+/*NAME : Avishkar SHivaji Mane
+  PRN NO -123B1F059
+
 Scenario: Smart Traffic Management for Emergency Vehicles
 A smart city is implementing an intelligent traffic management system to assist ambulances
 in reaching hospitals as quickly as possible. The city’s road network is represented as a
