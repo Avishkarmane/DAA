@@ -1,6 +1,6 @@
-// NAME : Avishkar Shivaji Mane
+/* NAME : Avishkar Shivaji Mane
   PRN NO -123B1F059
-  //
+*/
 
 #include <iostream>
 #include <vector>
