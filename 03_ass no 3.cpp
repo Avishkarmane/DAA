@@ -1,5 +1,5 @@
 //NAME : Avishkar Shivaji Mane
-PRN NO -123B1F059
+   PRN NO -123B1F059
 //
 /*Scenario : Emergency Relief Supply Distribution A devastating flood has hit multiple villages in a remote area,and the government,along with NGOs,is organizing an emergency relief operation.A rescue team has a limited - capacity boat that can carry a maximum weight of W kilograms.The boat must transport critical supplies,including food,medicine,and drinking water,from a relief center to the affected villages.Each type of relief item has :
 ● A weight(wi) in kilograms.
